@@ -1,2 +1,2 @@
-# lecture-reources
+#  lecture-resources
 Lecture Resources
